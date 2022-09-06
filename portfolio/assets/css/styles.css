@@ -464,48 +464,59 @@ img {
   background-color: var(--first-color);
 }
 
-/*
+
 .skills__html {
-  width: 75px;
+  height: 5px;
+  width: 75%;
 }
 
 .skills__css {
+  height: 5px;
   width: 64%;
 }
 
 .skills__js {
+  height: 5px;
   width: 40%;
 }
 
 .skills__react {
+  height: 5px;
   width: 1%;
 }
 
 .skills__php {
+  height: 5px;
   width: 0%;
 }
 
 .skills__node {
+  height: 5px;
   width: 0%;
 }
 
 .skills__firebase {
+  height: 5px;
   width: 0%;
 }
 
 .skills__python {
+  height: 5px;
   width: 5%;
 }
 
 .skills__figma {
+  height: 5px;
   width: 30%;
 }
 
 .skills__sketch {
+  height: 5px;
   width: 0%;
 }
 
 .skills__ps {
+  height: 5px;
   width: 85%;
 }
 
